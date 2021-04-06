@@ -9,13 +9,13 @@
 6. зелёный- валидация после разморозки слоёв
 
 
-**график точности
+**график точности**
 
 
  ![1.1](https://github.com/YurchenokMaxim/lab5/blob/main/epoch_categorical_accuracy.svg)
  
  
- **график потерь
+ **график потерь**
  
  
  ![1.2](https://github.com/YurchenokMaxim/lab5/blob/main/epoch_loss.svg)
